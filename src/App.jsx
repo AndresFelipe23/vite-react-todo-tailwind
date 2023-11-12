@@ -71,7 +71,7 @@ const App = () => {
                 </section>
 
                 <p className="text-center mt-8 mb-4">
-                    Drag and drop to reorder list
+                    Drag and drop to reorder list - proxima clase
                 </p>
             </div>
         </>
